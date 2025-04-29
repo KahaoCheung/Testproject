@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mrc/mrc/exercises/exercise1/src/dont_crash.cpp
+iostream
+-
+emc/io.h
+-
+emc/rate.h
+-
+chrono
+-
+

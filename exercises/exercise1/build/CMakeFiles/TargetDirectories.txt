@@ -1,0 +1,3 @@
+/home/mrc/mrc/exercises/exercise1/build/CMakeFiles/rebuild_cache.dir
+/home/mrc/mrc/exercises/exercise1/build/CMakeFiles/edit_cache.dir
+/home/mrc/mrc/exercises/exercise1/build/CMakeFiles/dont_crash.dir
